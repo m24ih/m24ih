@@ -2,7 +2,7 @@
 
 My name is Melih and I'm a computer engineering student. 💻 📚 👨🏻‍🎓
 
-- 🌱 I’m currently learning Java and FullStack Web Developing.
+- 🌱 I’m currently learning Java Spring Boot and Python Data Science.
 
 - ⚡ Fun fact: I'm nerd about all Sci-fi things.
 
