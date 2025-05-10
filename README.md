@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m24ih" alt="m24ih" /></a> </p>
 
-- 🌱 I’m currently learning **Python Tensorflow**
+- 🌱 I’m currently working on **Java Book Reader App**
 
 - 📫 How to reach me **melihak635442@gmail.com**
+- 📫 How to reach me **melih@melihak.me**
 
-//- ⚡ Fun fact **I'm nerd about all Sci-fi things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
