@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **melihak635442@gmail.com**
 
-- ⚡ Fun fact **I'm nerd about all Sci-fi things.**
+//- ⚡ Fun fact **I'm nerd about all Sci-fi things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
