@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently working on **Java Book Reader App**
 
-- 📫 How to reach me **melihak635442@gmail.com**
-- 📫 How to reach me **melih@melihak.me**
+- 📫 How to reach me **melihak2467@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
