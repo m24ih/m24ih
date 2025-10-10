@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melih Ak</h1>
 <h3 align="center">I'm a computer engineering student. 💻 📚 👨🏻‍🎓</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m24ih" alt="m24ih" /></a> </p>
-
 - 🌱 I’m currently working on **Java Book Reader App**
 
 - 📫 How to reach me **melihak635442@gmail.com**
