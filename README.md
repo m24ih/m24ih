@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melih Ak</h1>
 <h3 align="center">I'm a computer engineering student. 💻 📚 👨🏻‍🎓</h3>
 
-//- 🌱 I’m currently working on **Java Book Reader App**
-
 - 📫 How to reach me **melihak2467@gmail.com**
 
 
