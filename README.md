@@ -2,8 +2,8 @@
 <h3 align="center">I'm a senior computer engineering student. 💻 📚 👨🏻‍🎓</h3>
 
 - 📫 How to reach me **melihak2467@gmail.com**
-My portfolio: https://www.melihak.me
-My blog page: https://blog.melihak.me
+- My portfolio: https://www.melihak.me
+- My blog page: https://blog.melihak.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
