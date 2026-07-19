@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a senior computer engineering student. 💻 📚 👨🏻‍🎓</p>
+<p align="center">I'm a newly graduated Computer Engineer. 💻 📚 👨🏻‍🎓</p>
 
 ###
 
